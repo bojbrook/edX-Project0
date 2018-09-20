@@ -1,0 +1,10 @@
+#nav-bar{
+  background-color: lightgray;
+  height: 50px;
+}
+
+.nav-item{
+  text-align: center;
+  color: black;
+  padding: 5px;
+}
