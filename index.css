@@ -1,26 +1,14 @@
-/* .nav{
-  width: 100%;
+body {
+  background-color: #6d83a8;
 }
 
-.card-img-top{
-  height: 200px;
-}
-
-/* .nav-item{
-  text-align: center;
-  color: black;
-  padding: 5px;
-} */
-
-body{
-  background-color: grey;
-}
-
-img{
+img {
   height: 200px;
   width: 200px;
 }
 
-.card-body{
-  height: 200px;
+#title-name {
+  font-weight: bold;
 }
+
+/*# sourceMappingURL=index.css.map */
