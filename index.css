@@ -1,5 +1,5 @@
 body {
-  background-color: #6d83a8;
+  background-color: #0d7fc1;
 }
 
 img {
@@ -9,6 +9,14 @@ img {
 
 #title-name {
   font-weight: bold;
+}
+
+.nav {
+  background-color: #0d7fc1;
+}
+
+.nav-link {
+  color: #000000;
 }
 
 /*# sourceMappingURL=index.css.map */

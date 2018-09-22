@@ -1,7 +1,8 @@
-$color: #6d83a8;
+$background-color: #0d7fc1;
+$nav-text-color: #000000;
 
 body{
-  background-color: $color;
+  background-color: $background-color;
 }
 
 img{
@@ -11,4 +12,12 @@ img{
 
 #title-name{
   font-weight: bold;
+}
+
+.nav{
+  background-color: $background-color;
+}
+
+.nav-link{
+  color: $nav-text-color;
 }
